@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Properties",
-    "\\Properties\\Pages",
-    "\\wwwroot"
+    ""
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

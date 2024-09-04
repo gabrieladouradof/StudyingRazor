@@ -26,3 +26,4 @@ C:\dev\MyRazorApp\obj\Debug\net8.0\refint\MyRazorApp.dll
 C:\dev\MyRazorApp\obj\Debug\net8.0\MyRazorApp.pdb
 C:\dev\MyRazorApp\obj\Debug\net8.0\MyRazorApp.genruntimeconfig.cache
 C:\dev\MyRazorApp\obj\Debug\net8.0\ref\MyRazorApp.dll
+C:\dev\MyRazorApp\obj\Debug\net8.0\MyRazorApp.sourcelink.json
