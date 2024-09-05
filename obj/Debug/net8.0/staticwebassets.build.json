@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GFnE+17c5mjot5CYPjm2rD/2zh9K+aT4QQfZ8uS9zQI=",
+  "Hash": "UNlJvB/QmzJRpjZtI5sVzsm1ZGr4eaNq5LSMQCv0Zx4=",
   "Source": "MyRazorApp",
   "BasePath": "_content/MyRazorApp",
   "Mode": "Default",
@@ -15,5 +15,44 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyRazorApp.styles.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyRazorApp.styles.css"
+    },
+    {
+      "Identity": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css"
+    }
+  ]
 }

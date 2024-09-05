@@ -19,9 +19,9 @@ public class Categories : PageModel
                 i * 18.95M));
         }
 
-        CategoryList = temp;
-        .Skip(skip);
-        .Take(take); 
+        CategoryList = temp
+        .Skip(skip)
+        .Take(take)
         .ToList(); 
     }
 }

@@ -27,3 +27,5 @@ C:\dev\MyRazorApp\obj\Debug\net8.0\MyRazorApp.pdb
 C:\dev\MyRazorApp\obj\Debug\net8.0\MyRazorApp.genruntimeconfig.cache
 C:\dev\MyRazorApp\obj\Debug\net8.0\ref\MyRazorApp.dll
 C:\dev\MyRazorApp\obj\Debug\net8.0\MyRazorApp.sourcelink.json
+C:\dev\MyRazorApp\obj\Debug\net8.0\scopedcss\Pages\Shared\NavMenuPartial.cshtml.rz.scp.css
+C:\dev\MyRazorApp\obj\Debug\net8.0\scopedcss\projectbundle\MyRazorApp.bundle.scp.css

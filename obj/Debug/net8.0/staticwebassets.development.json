@@ -1,1 +1,1 @@
-{"ContentRoots":["C:\\dev\\MyRazorApp\\wwwroot\\"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\","C:\\dev\\MyRazorApp\\wwwroot\\"],"Root":{"Children":{"MyRazorApp.styles.css":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"MyRazorApp.styles.css"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":1,"Pattern":"**","Depth":0}]}}
